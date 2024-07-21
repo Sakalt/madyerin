@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #aaaaaa;
+}
+
+#search {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#results {
+    padding: 10px;
+}
+
+.madueyer {
+    font-family: 'Madueyer', sans-serif;
+}
+
+.hidden {
+    display: none;
+}
